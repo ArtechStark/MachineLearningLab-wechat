@@ -1,2 +1,2 @@
 # MachineLearningLab-wechat
-公众号：MachineLearningLab-wechat
+微信公众号：MachineLearningLab
